@@ -1,0 +1,186 @@
+
+body {
+
+    font-family: 'Archivo', sans-serif;
+
+}
+
+.rased{
+    color:aqua;
+}
+
+ .top-section {
+
+  height: 650px;
+  clear: both;
+
+ }
+  
+  .half-width{
+
+   width: 40%;
+  float: left;
+  margin: 3%;
+  padding: 2%;
+  }
+
+  #about{
+ text-align: center;
+ color: rgb(59, 58, 58);
+ font-size: 50px
+
+  }
+
+  .second-section{
+
+   width: 100%;
+   height: 600px;
+   background-color: rgb(255, 254, 254);
+
+
+  }
+
+
+   .hlf-width1234a {
+
+    width: 250PX;
+    
+    padding: 30px;
+    background-color: rgb(243, 240, 240);
+    margin-left: 19px;
+    box-shadow: 1px 6px 3px 3px rgb(101, 138, 150);
+    float: left;
+    margin-bottom: 15PX;
+    border-radius: 6px;
+
+   }
+
+   #H-DESIGN{
+
+    text-align: center;
+    color: teal;
+
+
+   }
+
+   #p-design{
+
+    color: rgba(180, 180, 56, 0.514);
+
+   }
+
+  
+   .rd-section{
+
+    width: 100%;
+    height: 450px;
+    margin-top: 90px;
+
+
+
+   }
+
+   .hlf-width1234abc{
+
+    width: 188px;
+    float: left;
+    background-color: rgb(98, 114, 98);
+    padding: 29px;
+    box-shadow: 1px 6px 3px 3px rgb(101, 138, 150);
+    border-radius: 8px;
+    margin: 10px;
+    text-align: center;
+
+  
+
+   }
+
+   #H2a-DESIGN{
+
+    color: rgb(22, 5, 172);
+
+   }
+
+   #p2-design{
+   color: rgb(30, 31, 31);
+   }
+
+   .h-design{
+
+    color: grey;
+     text-align: center;
+
+   }
+
+   .hlf-width1234ade{
+
+    width: 300px;
+    background-color: grey;
+    padding: 30px;
+    margin-bottom: 10px;
+    float: left;
+    margin-left: 60px;
+    margin-top: 10px;
+    box-shadow: 1px 6px 3px 3px rgb(238, 241, 241);
+    border-radius: 9px;
+
+   }
+
+   .last-section{
+
+    width: 100%;
+    background-color: rgb(209, 206, 206);
+    height: 600px;
+    margin-top: 300px;
+    
+
+
+   }
+
+   .last-di{
+
+     width: 490px;
+     float: left;
+    padding: 30px;
+   }
+
+
+
+
+
+
+   #fom-design{
+
+    margin-top: 100px
+  }
+
+  #top-sel{
+
+
+    margin-top: 100px;
+    line-height: normal;
+  }
+
+  input:hover{
+
+    font-size: 20px;
+    color: lawngreen;
+    border: 1px solid olivedrab;
+  }
+
+  #design{
+
+   text-decoration: none;
+   color: olivedrab;
+   margin-left: 50px;
+   padding: 30px;
+   
+
+  }
+
+  .header-design{
+
+  float: left;
+
+
+  }
